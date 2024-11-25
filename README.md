@@ -34,6 +34,9 @@
     sudo systemctl stop blink
     sudo systemctl enable blink
 
+![1000193118](https://github.com/user-attachments/assets/38a68eb5-0d42-4a4f-a325-d08f6965b808)
+![1000193140](https://github.com/user-attachments/assets/b7b0513c-b6e7-4309-b13b-2ec5ec3310a8)
+
 
 # Prática 2
 
