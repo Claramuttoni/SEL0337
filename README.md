@@ -45,3 +45,4 @@
 
 A seguir, está uma imagem dos processos realizados na prática 2:
 ![WhatsApp Image 2024-11-24 at 23 34 57](https://github.com/user-attachments/assets/c112ca08-e03e-448d-a55f-110a884dcdfa)
+![1000193143](https://github.com/user-attachments/assets/f4db1bab-f98a-4c6f-8a19-c359dd51d56e)
