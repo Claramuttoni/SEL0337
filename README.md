@@ -39,3 +39,6 @@
 
 - Para a prática 2, foi criada essa conta no GitHub e um repositório com código da disciplina para documentar o projeto dentro dele a partir da Raspberry Pi, realizando um clone do repositório na Raspberry Pi para inserir os programas em python desenvolvidos e realizar commits, push para enviar as atualizações que realizar localmente para o repositório remoto na nessa conta do GitHub.
 - Assim, foi possível também configurar o acesso da dupla por meio dos comandos "git config --global user.name "claramuttoni" e "git config --global user.email "claramuttoni@usp.br"
+
+A seguir, está uma imagem dos processos realizados na prática 2:
+![WhatsApp Image 2024-11-24 at 23 34 57](https://github.com/user-attachments/assets/c112ca08-e03e-448d-a55f-110a884dcdfa)
