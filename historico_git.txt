@@ -1,0 +1,29 @@
+commit a1bb9e8086acf1121624ddea3537cce45437256d
+Author: claramuttoni <claramuttoni@usp.br>
+Date:   Mon Nov 25 11:48:47 2024 -0300
+
+    Mudando o arquivo
+
+commit f0f6a61b106a4350a60e418f3bcb290fe515ac1c
+Author: Clara Muttoni <claramuttoni@usp.br>
+Date:   Mon Nov 25 11:32:34 2024 -0300
+
+    Update README.md
+
+commit c2baa65258a336b3d9eaf4e4df7e01d116b634d1
+Author: Clara Muttoni <claramuttoni@usp.br>
+Date:   Sun Nov 24 23:36:38 2024 -0300
+
+    Update README.md
+
+commit 2996241530db54e599a46e9ab70527ca023fe2bc
+Author: Clara Muttoni <claramuttoni@usp.br>
+Date:   Sun Nov 24 23:33:38 2024 -0300
+
+    Update README.md
+
+commit d74bfea970516da2b10155890f8c96cc81a57b2a
+Author: Clara Muttoni <claramuttoni@usp.br>
+Date:   Mon Nov 18 10:45:01 2024 -0300
+
+    Initial commit
